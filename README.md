@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
  - <b>Vulnerability management</b>
-  - [Tests environment for vulnerabilities with credentials and without credentials](https://github.com/AndrewTanga/Vulnerability-Management)
+   - [Tests environment for vulnerabilities with credentials and without credentials](https://github.com/AndrewTanga/Vulnerability-Management)
 
 
 
