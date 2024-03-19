@@ -11,7 +11,7 @@
 - <b>Regulatory compliance - NIST 800-53</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment]()
 
-- <b>Incident response</b>
+- <b>Incidents response</b>
   - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle]()
 
 
