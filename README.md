@@ -6,7 +6,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
  - <b>Vulnerability management(In progress)</b>
-   - [Tests environment for vulnerabilities with credentials and without credentials](https://github.com/AndrewTanga/Vulnerability-Management)
+   - [Tests environment for vulnerabilities with unauthenticated and credentialed scan](https://github.com/AndrewTanga/Vulnerability-Management)
   
 - <b>Regulatory compliance - NIST 800-53(In progress)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment]()
