@@ -5,7 +5,7 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
- - <b>Vulnerability management(In progress)</b>
+ - <b>Vulnerability management</b>
    - [Tests environment for vulnerabilities with unauthenticated and credentialed scan](https://github.com/AndrewTanga/Vulnerability-Management)
   
 - <b>Regulatory compliance - NIST 800-53(In progress)</b>
