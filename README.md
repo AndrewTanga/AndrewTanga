@@ -5,13 +5,13 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
- - <b>Vulnerability management</b>
+ - <b>Vulnerability management(In progress)</b>
    - [Tests environment for vulnerabilities with credentials and without credentials](https://github.com/AndrewTanga/Vulnerability-Management)
   
-- <b>Regulatory compliance - NIST 800-53</b>
+- <b>Regulatory compliance - NIST 800-53(In progress)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment]()
 
-- <b>Incidents response</b>
+- <b>Incidents response(In progress)</b>
   - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle]()
 
 
