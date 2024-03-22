@@ -15,7 +15,7 @@
   - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle]()
    
 - <b>KQL Queries Vault</b>
-  - [Templates of KQL Queries]()
+  - [Templates of KQL Queries](https://github.com/AndrewTanga/KQL-Templates)
 
 
 
