@@ -18,7 +18,7 @@
   - [KQL Query Templates](https://github.com/AndrewTanga/KQL-Templates)
  
 - <b>Python</b>
-  - [Code](https://github.com/AndrewTanga/Python-Code)
+  - [Code]()
 
 
 
