@@ -8,7 +8,7 @@
  - <b>Vulnerability management</b>
    - [Tests environment for vulnerabilities with unauthenticated and credentialed scan](https://github.com/AndrewTanga/Vulnerability-Management)
   
-- <b>Hardening Azure environment(In progress)</b>
+- <b>Hardening Azure Environment(In progress)</b>
   - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
   
 - <b>Regulatory compliance - NIST 800-53(In progress)</b>
