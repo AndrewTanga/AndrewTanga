@@ -14,7 +14,7 @@
 - <b>Incidents response(In progress)</b>
   - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle]()
    
-- <b>KQL Queries Vault</b>
+- <b>KQL Query Templates</b>
   - [Templates of KQL Queries](https://github.com/AndrewTanga/KQL-Templates)
 
 
