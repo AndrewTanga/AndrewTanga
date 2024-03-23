@@ -7,6 +7,9 @@
  
  - <b>Vulnerability management(OpenVAS)</b>
    - [Test environment for vulnerabilities with unauthenticated and credentialed scan](https://github.com/AndrewTanga/Vulnerability-Management)
+
+ - <b>Vulnerability management(Nessus)</b>
+   - [Test environment utilazing Nessus]()
   
 - <b>Hardening Azure Environment(in process)</b>
   - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
@@ -16,10 +19,7 @@
 
 - <b>Incidents response(In process)</b>
   - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle](https://github.com/AndrewTanga/Incident-response)
-
- - <b>Vulnerability management(Nessus)</b>
-   - [Test environment utilazing Nessus]()
-   
+ 
 - <b>KQL Query Repository</b>
   - [KQL Query Templates](https://github.com/AndrewTanga/KQL-Templates)
 
