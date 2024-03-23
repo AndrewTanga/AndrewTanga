@@ -8,10 +8,13 @@
  - <b>Vulnerability management(OpenVAS)</b>
    - [Tests environment for vulnerabilities with unauthenticated and credentialed scan](https://github.com/AndrewTanga/Vulnerability-Management)
   
-- <b>Hardening Azure Environment(In progress)</b>
+ - <b>Vulnerability management(Nessus)</b>
+   - [Tests environment utilazing Nessus]()
+  
+- <b>Hardening Azure Environment(in process)</b>
   - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
   
-- <b>Regulatory compliance - NIST 800-53(In progress)</b>
+- <b>Regulatory compliance - NIST 800-53(in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
 
 - <b>Incidents response(In progress)</b>
