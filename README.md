@@ -5,10 +5,8 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
- - <b>Vulnerability management(OpenVAS)</b>
-   - [Test environment for vulnerabilities with unauthenticated and credentialed scan](https://github.com/AndrewTanga/Vulnerability-Management)
-
- - <b>Vulnerability management(Nessus)</b>
+ - <b>Vulnerability management</b>
+   - [Test environment for vulnerabilities with unauthenticated and credentialed scan(OpenVAS)](https://github.com/AndrewTanga/Vulnerability-Management)
    - [Test environment utilazing Nessus](https://github.com/AndrewTanga/Vulnerability-management---Nessus)
   
 - <b>Hardening Azure Environment(in process)</b>
