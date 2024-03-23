@@ -14,7 +14,7 @@
 - <b>Regulatory compliance - NIST 800-53(in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
 
-- <b>Incidents response(In progress)</b>
+- <b>Incidents response(In process)</b>
   - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle](https://github.com/AndrewTanga/Incident-response)
 
  - <b>Vulnerability management(Nessus)</b>
