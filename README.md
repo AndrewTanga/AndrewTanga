@@ -17,9 +17,9 @@
 
 - <b>Incident response in accordance with the NIST 800-61 Incident Management Lifecycle(In process)</b>
   - [Incident 1 - Brute Force Success (Windows)](https://github.com/AndrewTanga/Incident-1---Brute-Force-Success-Windows-)
-  - [Incident 2 - Brute Force Success (Linux)] 
-  - [ncident 3 - Possible Privilege Escalation]
-  - [Incident 4 - Possible Malware Outbreak] 
+  - [Incident 2 - Brute Force Success (Linux)](https://github.com/AndrewTanga/Incident-2---Brute-Force-Success-Linux-)
+  - [ncident 3 - Possible Privilege Escalation](https://github.com/AndrewTanga/ncident-3---Possible-Privilege-Escalation)
+  - [Incident 4 - Possible Malware Outbreak](https://github.com/AndrewTanga/Incident-4---Possible-Malware-Outbreak) 
  
 - <b>KQL Query Repository</b>
   - [KQL Query Templates](https://github.com/AndrewTanga/KQL-Templates)
