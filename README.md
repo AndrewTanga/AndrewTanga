@@ -8,6 +8,7 @@
  - <b>Vulnerability management</b>
    - [Test environment for vulnerabilities with unauthenticated and credentialed scan(OpenVAS)](https://github.com/AndrewTanga/Vulnerability-Management)
    - [Test environment for vulnerabilities utilazing Nessus](https://github.com/AndrewTanga/Vulnerability-management---Nessus)
+   - [Test environment for vulnerabilities utilazing Qualys](https://github.com/AndrewTanga/Vulnerability-Management-Qualys)
   
 - <b>Hardening Azure Environment(in process)</b>
   - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
