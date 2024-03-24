@@ -15,8 +15,11 @@
 - <b>Regulatory compliance - NIST 800-53(in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
 
-- <b>Incidents response(In process)</b>
-  - [Work the incidents being generated within Azure Sentinel, in accordance with the NIST 800-61 Incident Management Lifecycle](https://github.com/AndrewTanga/Incident-response)
+- <b>Incident response in accordance with the NIST 800-61 Incident Management Lifecycle(In process)</b>
+  - Incident 1 - Brute Force Success (Windows)
+  - Incident 2 - Brute Force Success (Linux) 
+  - ncident 3 - Possible Privilege Escalation
+  - Incident 4 - Possible Malware Outbreak 
  
 - <b>KQL Query Repository</b>
   - [KQL Query Templates](https://github.com/AndrewTanga/KQL-Templates)
