@@ -31,8 +31,8 @@
   - <b>Essay</b>
     - [Techniques and philosophy of hackers' attacks on cloud computing technology.](https://github.com/AndrewTanga/Technique-and-philosophy-of-of-hackers-attack-on-cloud-computing)
 
-
-
+- <b>Sophisticated Cyberattacks</b>
+  - [Hijackloader](https://github.com/AndrewTanga/Hijackloader)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
