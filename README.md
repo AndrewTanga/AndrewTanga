@@ -21,6 +21,9 @@
   - [Incident 2 - Possible Malware Outbreak](https://github.com/AndrewTanga/Incident-4---Possible-Malware-Outbreak) 
   - [Incident 3 - Brute Force Success (Windows)](https://github.com/AndrewTanga/Incident-1---Brute-Force-Success-Windows-)
   - [Incident 4 - Brute Force Success (Linux)](https://github.com/AndrewTanga/Incident-2---Brute-Force-Success-Linux-)
+
+- <b>Integrity</b>
+  - [Hashing Algorithms + FIM](https://github.com/AndrewTanga/Hashing-Algorithms-File-Integrity-Monitor)
   
 - <b>KQL Query Repository</b>
   - [KQL Query Templates](https://github.com/AndrewTanga/KQL-Templates)
