@@ -40,7 +40,7 @@
 - <b>Advanced Cyberattack Techniques & Malware Research</b>
   - [HijackLoader malware has developed new methods to avoid detection by security defenses. ](https://github.com/AndrewTanga/Hijackloader)
  
-  - <b>Advanced Breaches<b>
+- <b>Advanced Breaches<b>
  
 
 <!--
