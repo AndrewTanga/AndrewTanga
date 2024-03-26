@@ -41,7 +41,8 @@
   - [HijackLoader malware has developed new methods to avoid detection by security defenses. ](https://github.com/AndrewTanga/Hijackloader)
  
 - <b>Advanced Breaches<b>
- 
+  - [Yahoo! 2013]
+  - [Microsoft 2021]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
