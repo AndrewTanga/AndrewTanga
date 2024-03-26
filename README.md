@@ -44,7 +44,7 @@
   - [Yahoo! - 2013]()
   - [Microsoft - 2021]()
  
--<b>Hackers vs. Authorities: Victories Repository<b>
+- <b>Hackers vs. Authorities: Victories Repository<b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
