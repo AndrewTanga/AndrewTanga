@@ -47,7 +47,7 @@
 - <b>Hackers vs. Authorities: Victories Repository<b>
 
 - <b>Best Practices for Securing Your Home Network<b>
-  - [National Security Agency's (NSA) recommendations for securing your home network](https://media.defense.gov/2023/Feb/22/2003165170/-1/-1/0/CSI_BEST_PRACTICES_FOR_SECURING_YOUR_HOME_NETWORK.PDF)
+  - [National Security Agency's (NSA) recommendations for securing your home network(FEB 2023 Ver. 1.0)](https://media.defense.gov/2023/Feb/22/2003165170/-1/-1/0/CSI_BEST_PRACTICES_FOR_SECURING_YOUR_HOME_NETWORK.PDF)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
