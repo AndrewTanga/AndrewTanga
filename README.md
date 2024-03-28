@@ -36,6 +36,7 @@
   
   - <b>Essay</b>
     - [Techniques and philosophy of hackers' attacks on cloud computing technology.](https://github.com/AndrewTanga/Technique-and-philosophy-of-of-hackers-attack-on-cloud-computing)
+    - [Password Strength Testing Tool](https://bitwarden.com/password-strength/)
 
 - <b>Advanced Cyberattack Techniques & Malware Research</b>
   - [HijackLoader malware has developed new methods to avoid detection by security defenses. ](https://github.com/AndrewTanga/Hijackloader)
