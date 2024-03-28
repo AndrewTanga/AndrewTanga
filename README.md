@@ -36,8 +36,7 @@
   
   - <b>Essay</b>
     - [Techniques and philosophy of hackers' attacks on cloud computing technology.](https://github.com/AndrewTanga/Technique-and-philosophy-of-of-hackers-attack-on-cloud-computing)
-    - [Password Strength Testing Tool](https://bitwarden.com/password-strength/)
-
+   
 - <b>Advanced Cyberattack Techniques & Malware Research</b>
   - [HijackLoader malware has developed new methods to avoid detection by security defenses. ](https://github.com/AndrewTanga/Hijackloader)
  
@@ -49,17 +48,7 @@
 
 - <b>Best Practices for Securing Your Home Network<b>
   - [National Security Agency's (NSA) recommendations for securing your home network(FEB 2023 Ver. 1.0)](https://media.defense.gov/2023/Feb/22/2003165170/-1/-1/0/CSI_BEST_PRACTICES_FOR_SECURING_YOUR_HOME_NETWORK.PDF)
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - [Password Strength Testing Tool](https://bitwarden.com/password-strength/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
