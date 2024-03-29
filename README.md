@@ -18,7 +18,6 @@
 
 - <b>Incident response in accordance with the NIST 800-61 Incident Handling Guide(In process)</b>
   - [incident 1 - Possible Privilege Escalation](https://github.com/AndrewTanga/ncident-3---Possible-Privilege-Escalation)
-  - 
   - [Incident 2 - Possible Malware Outbreak](https://github.com/AndrewTanga/Incident-4---Possible-Malware-Outbreak) 
   - [Incident 3 - Brute Force Success (Windows)](https://github.com/AndrewTanga/Incident-1---Brute-Force-Success-Windows-)
   - [Incident 4 - Brute Force Success (Linux)](https://github.com/AndrewTanga/Incident-2---Brute-Force-Success-Linux-)
@@ -40,7 +39,10 @@
     - [Techniques and philosophy of hackers' attacks on cloud computing technology.](https://github.com/AndrewTanga/Technique-and-philosophy-of-of-hackers-attack-on-cloud-computing)
    
 - <b>Advanced Cyberattack Techniques & Malware Research</b>
-  - [HijackLoader malware has developed new methods to avoid detection by security defenses. ](https://github.com/AndrewTanga/Hijackloader)
+  - [HijackLoader malware has developed new methods to avoid detection by security defenses](https://github.com/AndrewTanga/Hijackloader)
+  - [Typosquatting attack - The Python Package Index (PyPi) under attack](https://malware.news/t/pypi-is-under-attack-project-creation-and-user-registration-suspended/80193)
+  - [IPhone Darcula Phishing Attack](https://www.itpro.com/security/tycoon-2fa-the-popular-phishing-kit-built-to-bypass-microsoft-and-gmail-2fa-security-protections-just-got-a-major-upgrade-and-its-now-even-harder-to-detect)
+  - [Tycoon 2FA just got a major upgrade and even harder to detect now](https://www.itpro.com/security/tycoon-2fa-the-popular-phishing-kit-built-to-bypass-microsoft-and-gmail-2fa-security-protections-just-got-a-major-upgrade-and-its-now-even-harder-to-detect)
  
 - <b>Advanced Breaches<b>
   - [Yahoo! - 2013]()
