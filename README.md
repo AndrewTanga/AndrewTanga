@@ -26,7 +26,7 @@
   - [Sentinel Analytics Rules](https://github.com/AndrewTanga/Sentinel-Analytics-Rules)
   
 - <b>Integrity</b>
-  - [Hashing Algorithms + FIM](https://github.com/AndrewTanga/Hashing-Algorithms-File-Integrity-Monitor)
+  - [Hashing Algorithms + FIM (PowerShell)](https://github.com/AndrewTanga/Hashing-Algorithms-File-Integrity-Monitor)
   
 - <b>KQL Query Repository</b>
   - [KQL Query Templates](https://github.com/AndrewTanga/KQL-Templates)
