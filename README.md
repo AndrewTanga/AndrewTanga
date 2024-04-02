@@ -45,8 +45,8 @@
   - [Tycoon 2FA just got a major upgrade and even harder to detect now](https://www.itpro.com/security/tycoon-2fa-the-popular-phishing-kit-built-to-bypass-microsoft-and-gmail-2fa-security-protections-just-got-a-major-upgrade-and-its-now-even-harder-to-detect)
  
 - <b>Advanced Breaches<b>
-  - [Yahoo! - 2013]()
-  - [Microsoft - 2021]()
+  - []()
+  - []()
   - [CISA Breach - 2024]()
  
 - <b>Hackers vs. Authorities: Victories Repository<b>
