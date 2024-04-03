@@ -7,7 +7,7 @@
   - [Threat intelligence - TAXII connector for Microsoft Sentinel](https://github.com/AndrewTanga/Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel)
 
 - <b>Customize Wireshark</b>
-  - [The most convinience/professional interface](https://github.com/AndrewTanga/Wireshark-customization)
+  - [The most professional interface](https://github.com/AndrewTanga/Wireshark-customization)
  
  - <b>Vulnerability management</b>
    - [Test environment for vulnerabilities with unauthenticated and credentialed scan(OpenVAS)](https://github.com/AndrewTanga/Vulnerability-Management)
