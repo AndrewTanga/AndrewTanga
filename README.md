@@ -5,6 +5,9 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
   - [Threat intelligence - TAXII connector for Microsoft Sentinel](https://github.com/AndrewTanga/Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel)
+
+- <b>Customize Wireshark</b>
+  - [The most convinience interface](https://github.com/AndrewTanga/Wireshark-customization)
  
  - <b>Vulnerability management</b>
    - [Test environment for vulnerabilities with unauthenticated and credentialed scan(OpenVAS)](https://github.com/AndrewTanga/Vulnerability-Management)
@@ -23,7 +26,7 @@
   - [Incident 3 - Brute Force Success (Windows)](https://github.com/AndrewTanga/Incident-1---Brute-Force-Success-Windows-)
   - [Incident 4 - Brute Force Success (Linux)](https://github.com/AndrewTanga/Incident-2---Brute-Force-Success-Linux-)
  
-- <b>[Microsoft Sentinel Analytics Rules]</b>
+- <b>Microsoft Sentinel Analytics Rules</b>
   - [Sentinel Analytics Rules](https://github.com/AndrewTanga/Sentinel-Analytics-Rules)
   
 - <b>PowerShell</b>
