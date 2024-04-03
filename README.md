@@ -4,7 +4,7 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
-  - [Threat intelligence - TAXII connector for Microsoft Sentinel]()
+  - [Threat intelligence - TAXII connector for Microsoft Sentinel](https://github.com/AndrewTanga/Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel)
  
  - <b>Vulnerability management</b>
    - [Test environment for vulnerabilities with unauthenticated and credentialed scan(OpenVAS)](https://github.com/AndrewTanga/Vulnerability-Management)
