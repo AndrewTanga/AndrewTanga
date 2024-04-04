@@ -47,6 +47,9 @@
   - [Typosquatting attack - The Python Package Index (PyPi) under attack](https://malware.news/t/pypi-is-under-attack-project-creation-and-user-registration-suspended/80193)
   - [IPhone Darcula Phishing Attack](https://www.itpro.com/security/tycoon-2fa-the-popular-phishing-kit-built-to-bypass-microsoft-and-gmail-2fa-security-protections-just-got-a-major-upgrade-and-its-now-even-harder-to-detect)
   - [Tycoon 2FA just got a major upgrade and even harder to detect now](https://www.itpro.com/security/tycoon-2fa-the-popular-phishing-kit-built-to-bypass-microsoft-and-gmail-2fa-security-protections-just-got-a-major-upgrade-and-its-now-even-harder-to-detect)
+  - [Recent ‘MFA Bombing’ Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
+  - [A Mexican Drug Cartel’s New Targets - Seniors and Their Timeshares](https://www.nytimes.com/2024/03/21/world/americas/mexico-timeshare-fraud-cartel.html)
+  - [Facebook snooped on users’ Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
  
 - <b>Advanced Breaches<b>
   - [CISA Breach - 2024]()
