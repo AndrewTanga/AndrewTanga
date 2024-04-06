@@ -5,8 +5,8 @@
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
   - [Threat intelligence - TAXII connector for Microsoft Sentinel](https://github.com/AndrewTanga/Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel)
-  - [Azure DevOps + Sentinel(working on)]()
-  - [The MITRE ATT&CK Attack Framework](working on)]()
+  - [Azure DevOps + Sentinel (working on)]()
+  - [The MITRE ATT&CK Attack Framework (working on)]()
 
 - <b>Customize Wireshark</b>
   - [The most professional interface](https://github.com/AndrewTanga/Wireshark-customization)
