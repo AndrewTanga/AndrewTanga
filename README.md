@@ -71,5 +71,6 @@
   - [Jack Rhysider](https://www.youtube.com/@JackRhysider)
   - [Xact Cybersecurity](https://www.youtube.com/@XactCyber)
   - [(Must know Russian)Информационная безопасность с Group-IB на People PRO](https://www.youtube.com/playlist?list=PL8Fj6Tf1y_zm-rHIfTUPrEfD14ujfsvL-)
+  - [(Need to know chinese)](https://www.thehackerworld.com/)
 
 
