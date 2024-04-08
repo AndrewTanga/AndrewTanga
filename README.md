@@ -64,6 +64,11 @@
   - [Password Strength Testing Tool](https://bitwarden.com/password-strength/)
   - [Advanced Smart Home Security](https://github.com/AndrewTanga/Advanced-Smart-Home-Security---VLANs-and-Firewalls)
   - [Using Wireshark to monitor your network traffic](https://github.com/AndrewTanga/WIreshark/blob/main/README.md)
-
+  
+- <b>Info sources<b>
+  - [CISO Series](https://cisoseries.com/subscribe-podcast/)
+  - [N2K](https://www.youtube.com/@n2kcyber/playlists)
+  - [Jack Rhysider](https://www.youtube.com/@JackRhysider)
+  - 
 
 
