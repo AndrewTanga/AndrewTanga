@@ -69,6 +69,7 @@
   - [CISO Series](https://cisoseries.com/subscribe-podcast/)
   - [N2K](https://www.youtube.com/@n2kcyber/playlists)
   - [Jack Rhysider](https://www.youtube.com/@JackRhysider)
-  - 
+  - [Xact Cybersecurity](https://www.youtube.com/@XactCyber)
+  - [(Must know Russian)Информационная безопасность с Group-IB на People PRO](https://www.youtube.com/playlist?list=PL8Fj6Tf1y_zm-rHIfTUPrEfD14ujfsvL-)
 
 
