@@ -52,6 +52,12 @@
   - [Recent ‘MFA Bombing’ Attacks Targeting Apple Users](https://krebsonsecurity.com/2024/03/recent-mfa-bombing-attacks-targeting-apple-users/)
   - [A Mexican Drug Cartel’s New Targets - Seniors and Their Timeshares](https://www.nytimes.com/2024/03/21/world/americas/mexico-timeshare-fraud-cartel.html)
   - [Facebook snooped on users’ Snapchat traffic in secret project, documents reveal](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/)
+
+- <b>Cyberwar<b>
+  - [The Chinise Hack that Stole 22m Peopl's Data](https://www.youtube.com/watch?v=FqN2Y66lanI)
+  - [The Hack That Made China a Superpower: Operation Shady Rat](https://www.youtube.com/watch?v=y27B-sKIUHA)
+  - [Why The US Decided to Become a Hacking Superpower](https://www.youtube.com/watch?v=0Bln-DSbpWU)
+  - [Why Hacking is The Future of War](https://www.youtube.com/watch?v=Hj-KU8zPHOY)
  
 - <b>Advanced Breaches<b>
   - [CISA Breach - 2024]()
