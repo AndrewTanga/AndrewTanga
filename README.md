@@ -9,7 +9,7 @@
   - [The MITRE ATT&CK Attack Framework (working on)]()
  
 - <b>Security Operation Center</b>
-  - [Email Analysis (Phishing)]()
+  - [Email Analysis (Phishing)](https://github.com/AndrewTanga/SOC---Email-Analysis)
 
 - <b>Customize Wireshark</b>
   - [The most professional interface](https://github.com/AndrewTanga/Wireshark-customization)
