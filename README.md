@@ -7,6 +7,9 @@
   - [Threat intelligence - TAXII connector for Microsoft Sentinel](https://github.com/AndrewTanga/Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel)
   - [Azure DevOps + Sentinel (working on)]()
   - [The MITRE ATT&CK Attack Framework (working on)]()
+ 
+- <b>Security Operation Center</b>
+  - [Email Analysis (Phishing)]()
 
 - <b>Customize Wireshark</b>
   - [The most professional interface](https://github.com/AndrewTanga/Wireshark-customization)
