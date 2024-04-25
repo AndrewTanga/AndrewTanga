@@ -10,7 +10,7 @@
  
 - <b>Security Operation Center</b>
   - [Email Analysis (Phishing)](https://github.com/AndrewTanga/SOC---Email-Analysis)
-  -  - [Malware analysis]()
+  - [Malware analysis]()
 
 - <b>Customize Wireshark</b>
   - [The most professional interface(working on)](https://github.com/AndrewTanga/Wireshark-customization)
