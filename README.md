@@ -1,5 +1,5 @@
 <h1>Hi, I'm Andrew! </a>Passionate Cybersecurity Professional</a>.<h1>
-<h2>More you do - more you can do!<h2>
+<b>More you do - more you can do!<b>
 
 <h2>👨‍💻 My Projects:</h2>
 
