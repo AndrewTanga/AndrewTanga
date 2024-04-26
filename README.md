@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew! </a>Passionate Cybersecurity Professional with motto "More you do - more you can do!"</a>.<h1>
+<h1>Hi, I'm Andrew! </a>Passionate about cybersecurity: The more you do, the more you can do!"</a>.<h1>
 
 
 <h2>👨‍💻 My Projects:</h2>
