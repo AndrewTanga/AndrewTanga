@@ -21,7 +21,7 @@
    - [Test environment for vulnerabilities utilazing Nessus](https://github.com/AndrewTanga/Vulnerability-management---Nessus)
    - [Test environment for vulnerabilities utilazing Qualys](https://github.com/AndrewTanga/Vulnerability-Management-Qualys)
   
-- <b>Hardening Azure Environment(in process)</b>
+- <b>Hardening Azure Environment (in process)</b>
   - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
   
 - <b>Regulatory compliance - NIST 800-53 (in process)</b>
