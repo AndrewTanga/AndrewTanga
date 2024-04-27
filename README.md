@@ -24,10 +24,10 @@
 - <b>Hardening Azure Environment(in process)</b>
   - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
   
-- <b>Regulatory compliance - NIST 800-53(in process)</b>
+- <b>Regulatory compliance - NIST 800-53 (in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
 
-- <b>Incident response in accordance with the NIST 800-61 Incident Handling Guide(In process)</b>
+- <b>Incident response in accordance with the NIST 800-61 Incident Handling Guide (In process)</b>
   - [incident 1 - Possible Privilege Escalation](https://github.com/AndrewTanga/ncident-3---Possible-Privilege-Escalation)
   - [Incident 2 - Possible Malware Outbreak](https://github.com/AndrewTanga/Incident-4---Possible-Malware-Outbreak) 
   - [Incident 3 - Brute Force Success (Windows)](https://github.com/AndrewTanga/Incident-1---Brute-Force-Success-Windows-)
