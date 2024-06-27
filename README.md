@@ -73,6 +73,9 @@
 - <b>Hackers vs. Authorities: Victories Repository<b>
   - [LockBit Disruption](https://github.com/AndrewTanga/Lockbit-cybercrime-gang-disrupted-by-Britain-US-and-EU)
 
+- <b>Apple platform security<b>
+    - [Apple platform security](https://help.apple.com/pdf/security/en_US/apple-platform-security-guide.pdf)
+
 - <b>Best Practices for Securing Your Home Network<b>
   - [National Security Agency's (NSA) recommendations for securing your home network(FEB 2023 Ver. 1.0)](https://media.defense.gov/2023/Feb/22/2003165170/-1/-1/0/CSI_BEST_PRACTICES_FOR_SECURING_YOUR_HOME_NETWORK.PDF)
   - [Password Strength Testing Tool](https://bitwarden.com/password-strength/)
