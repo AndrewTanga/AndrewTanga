@@ -49,6 +49,10 @@
     - [Code](https://github.com/AndrewTanga/Python-Code)
     - [Cybersecurity projects](https://github.com/AndrewTanga/Cybersecurity-projects)
   
+  - <b>Reverse Engineering<b>
+    - [Stuxnet](https://archive.org/details/w32_stuxnet_dossier/page/n17/mode/2up)
+  
+  
   - <b>Essay</b>
     - [Techniques and philosophy of hackers' attacks on cloud computing technology.](https://github.com/AndrewTanga/Technique-and-philosophy-of-of-hackers-attack-on-cloud-computing)
    
