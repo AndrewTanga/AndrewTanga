@@ -50,7 +50,7 @@
     - [Cybersecurity projects](https://github.com/AndrewTanga/Cybersecurity-projects)
   
   - <b>Reverse Engineering<b>
-    - [Stuxnet](https://docs.broadcom.com/doc/security-response-w32-stuxnet-dossier-11-en)
+  
   
   
   - <b>Essay</b>
