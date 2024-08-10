@@ -50,6 +50,7 @@
     - [Cybersecurity projects](https://github.com/AndrewTanga/Cybersecurity-projects)
   
   - <b>Reverse Engineering<b>
+    - [W32.Stuxnet Dossier](https://symantec-enterprise-blogs.security.com/threat-intelligence/stuxnet-dossier-espionage)
   
   
   
