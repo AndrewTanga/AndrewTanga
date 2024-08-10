@@ -50,7 +50,7 @@
     - [Cybersecurity projects](https://github.com/AndrewTanga/Cybersecurity-projects)
   
   - <b>Reverse Engineering<b>
-    - [Stuxnet](https://archive.org/details/w32_stuxnet_dossier/page/n17/mode/2up)
+    - [Stuxnet]([https://archive.org/details/w32_stuxnet_dossier/page/n17/mode/2up](https://docs.broadcom.com/doc/security-response-w32-stuxnet-dossier-11-en))
   
   
   - <b>Essay</b>
