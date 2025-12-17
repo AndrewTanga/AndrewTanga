@@ -12,9 +12,6 @@
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
-- <b>Email Analysis</b>
-  - Email-Analysis
- 
 - <b>Regulatory compliance - NIST 800-53 (in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
 
