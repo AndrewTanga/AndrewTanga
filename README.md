@@ -13,7 +13,7 @@
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
  
 - <b>Email Analysis</b>
-  - (https://github.com/AndrewTanga/SOC---Email-Analysis)
+  - https://github.com/AndrewTanga/SOC---Email-Analysis
  
 - <b>Regulatory compliance - NIST 800-53 (in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
