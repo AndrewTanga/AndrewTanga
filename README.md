@@ -5,27 +5,12 @@
 
 - <b>Azure / Cloud Cybersecurity Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
-  - [Threat intelligence - TAXII connector for Microsoft Sentinel](https://github.com/AndrewTanga/Threat-intelligence---TAXII-connector-for-Microsoft-Sentinel)
-  - [Azure DevOps + Sentinel (working on)]()
-  - [The MITRE ATT&CK Attack Framework (working on)]()
  
 - <b>Security Operation Center</b>
   - [Email Analysis (Phishing)](https://github.com/AndrewTanga/SOC---Email-Analysis)
-  - [SOC Automation Project (with SOAR integration)]()
 
-- Malware analysis (Guided by Michael Sikorski and Andrew Honig - Practical Malware Analysis (Old but timeless))
+- Malware analysis
   - [1-1]()
-
-- <b>Customize Wireshark</b>
-  - [The most professional interface(working on)](https://github.com/AndrewTanga/Wireshark-customization)
- 
- - <b>Vulnerability management</b>
-   - [Test environment for vulnerabilities with unauthenticated and credentialed scan(OpenVAS)](https://github.com/AndrewTanga/Vulnerability-Management)
-   - [Test environment for vulnerabilities utilazing Nessus](https://github.com/AndrewTanga/Vulnerability-management---Nessus)
-   - [Test environment for vulnerabilities utilazing Qualys](https://github.com/AndrewTanga/Vulnerability-Management-Qualys)
-  
-- <b>Hardening Azure Environment (in process)</b>
-  - [Securing a system by reducing its attack surface and minimizing vulnerabilities](https://github.com/AndrewTanga/Hardening-Azure-environment)
   
 - <b>Regulatory compliance - NIST 800-53 (in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
