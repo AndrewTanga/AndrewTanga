@@ -11,7 +11,7 @@
   - [Pikabot Malware Infection (PCAP Analysis)](https://github.com/AndrewTanga/Network-Threat-Investigation-.git)
 
 - <b>Azure / Cloud Cybersecurity Project</b>
-  - [Azure-SOC](https://github.com/AndrewTanga/Azure-SOC.git)
+  - [SOC + Honeynet in Azure (Live Traffic)](https://github.com/AndrewTanga/Azure-SOC.git)
  
 - <b>Regulatory compliance - NIST 800-53 (in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
