@@ -8,6 +8,7 @@
 - <b>Incident Response</b>
 
 - <b>Network Threat Investigation</b>
+  - [https://github.com/AndrewTanga/Network-Threat-Investigation-/blob/main/README.md]
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/AndrewTanga/Azure-SOC)
