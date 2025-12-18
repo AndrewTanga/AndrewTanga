@@ -8,7 +8,7 @@
 - <b>Incident Response</b>
 
 - <b>Network Threat Investigation</b>
-  - https://github.com/AndrewTanga/Network-Threat-Investigation-/blob/main/README.md
+  - https://github.com/AndrewTanga/Network-Threat-Investigation-.git
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [Azure-SOC](https://github.com/AndrewTanga/Azure-SOC.git)
