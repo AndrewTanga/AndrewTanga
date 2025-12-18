@@ -11,7 +11,7 @@
   - [https://github.com/AndrewTanga/Network-Threat-Investigation-/blob/main/README.md]
 
 - <b>Azure / Cloud Cybersecurity Project</b>
-  - [README.md)
+  - [[README.md](https://github.com/AndrewTanga/Azure-SOC))
  
 - <b>Regulatory compliance - NIST 800-53 (in process)</b>
   - [Implementing regulatory compliance NIST 800-53 in Azure environment](https://github.com/AndrewTanga/Regulatory-compliance---NIST-800-53)
