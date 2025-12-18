@@ -8,7 +8,7 @@
 - <b>Incident Response</b>
 
 - <b>Network Threat Investigation</b>
-  - (Pikabot Malware Infection (PCAP Analysis))https://github.com/AndrewTanga/Network-Threat-Investigation-/blob/main/README.md]
+  - https://github.com/AndrewTanga/Network-Threat-Investigation-/blob/main/README.md
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [https://github.com/AndrewTanga/Azure-SOC)
