@@ -12,7 +12,7 @@
 
  - <b>Malware Analysis</b>
    - [PDF]
-   - [Mocrosoft.docx]
+   - [.docx]
    - [Invoice Services Team.heic]
 
 - <b>Azure / Cloud Cybersecurity Project</b>
