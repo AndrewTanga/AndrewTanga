@@ -8,7 +8,7 @@
 - <b>Incident Response</b>
 
 - <b>Network Threat Investigation</b>
-  - [Pikabot Malware Infection (PCAP Analysis)](https://github.com/AndrewTanga/Network-Threat-Investigation-.git)
+  - [Pikabot(TA577) Malware Infection (PCAP Analysis)](https://github.com/AndrewTanga/Network-Threat-Investigation-.git)
 
  - <b>Malware Analysis</b>
 
