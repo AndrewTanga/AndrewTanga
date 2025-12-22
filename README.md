@@ -11,6 +11,7 @@
   - [Pikabot(TA577) Malware Infection (PCAP Analysis)](https://github.com/AndrewTanga/Network-Threat-Investigation-.git)
 
  - <b>Malware Analysis</b>
+  - - [PDF file]
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [SOC + Honeynet in Azure (Live Traffic)](https://github.com/AndrewTanga/Azure-SOC.git)
