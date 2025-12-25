@@ -12,8 +12,6 @@
 
  - <b>Malware Analysis</b>
    - [Malicious PDF](https://github.com/AndrewTanga/Malicious-PDF-Analysis)
-   - [.docx]
-   - [Invoice Services Team.heic]
 
 - <b>Azure / Cloud Cybersecurity Project</b>
   - [SOC + Honeynet in Azure (Live Traffic)](https://github.com/AndrewTanga/Azure-SOC.git)
