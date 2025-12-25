@@ -11,7 +11,7 @@
   - [Pikabot(TA577) Malware Infection (PCAP Analysis)](https://github.com/AndrewTanga/Network-Threat-Investigation-.git)
 
  - <b>Malware Analysis</b>
-   - [PDF]
+   - [Malicious PDF](https://github.com/AndrewTanga/Malicious-PDF-Analysis)
    - [.docx]
    - [Invoice Services Team.heic]
 
