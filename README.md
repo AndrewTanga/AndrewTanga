@@ -4,7 +4,7 @@
 <h2>👨‍💻 My Projects:</h2>
 
 - <b>Threat Hunting</b>
-  - [Exfiltration](https://github.com/AndrewTanga/Exfiltration)
+  - [Covert Data Exfiltration via PowerShell & 7Zip](https://github.com/AndrewTanga/Exfiltration)
 
 - <b>Incident Response</b>
 
